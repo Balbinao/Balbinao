@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying systems development analysis
 - 🎯 My goal is to become a Full Stack Developer.
 
-<img width="400" height="250" align = "right" align = "top" src = "https://camo.githubusercontent.com/1353549858c20c05d2b06bf84bbe064b17ace6594f84f1e8fd22ff66b965a6e6/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6d4767575938526b67594d41414141432f68656c6c6f2d776f726c642e676966">
+<img width="370" height="250" align = "right" align = "top" src = "https://camo.githubusercontent.com/1353549858c20c05d2b06bf84bbe064b17ace6594f84f1e8fd22ff66b965a6e6/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6d4767575938526b67594d41414141432f68656c6c6f2d776f726c642e676966">
 <br>
 <br>
 <br>
