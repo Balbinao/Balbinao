@@ -1,10 +1,28 @@
-### Hi, my name is Gustavo Balbino 👋
+## <h1 align = "center">Hi, my name is Gustavo Balbino 👋</h1>
 
 - 🌱 I’m currently studying systems development analysis
 - 🎯 My goal is to become a Full Stack Developer.
 
+<img width="400" height="250" align = "right" align = "top" src = "https://camo.githubusercontent.com/1353549858c20c05d2b06bf84bbe064b17ace6594f84f1e8fd22ff66b965a6e6/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6d4767575938526b67594d41414141432f68656c6c6f2d776f726c642e676966">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-balbino-654bb8197/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustvobal/)
+
+## Languages and tools
+
+
+
+
+
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Balbinao&show_icons=true&theme=dracula)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balbinao&layout=compact&theme=dracula)
 
