@@ -27,7 +27,7 @@
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Balbinao&show_icons=true&theme=dracula)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balbinao&layout=compact&theme=dracula)
 
 <div style="display: inline_block" align = "center"><br>
-  <a href = "https://developer.mozilla.org/en-US/docs/Glossary/Java"><imgalt = "Gusta-java" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"></a>
+  <a href = "https://developer.mozilla.org/en-US/docs/Glossary/Java"><img alt = "Gusta-java" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"></a>
   <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="Gusta-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="Gusta-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="Gusta-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
